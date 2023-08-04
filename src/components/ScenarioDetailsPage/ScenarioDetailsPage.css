@@ -1,0 +1,25 @@
+.scenario-details-container{
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.map-container {
+    height: 200px; 
+    margin-top: 10px; 
+}
+
+.logo-image-scenarios{
+    height: 60px;
+    width: 50px;
+}
+
+.scenario-table-name{
+    color: #4f4c4c;
+    font-style: oblique;
+    font-weight: normal !important;
+}
+
+.scenario-table-value{
+    color: #9e3f23d7;
+    font-weight: bolder !important;
+}
