@@ -1,0 +1,27 @@
+.scenarios-container{
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.logo-image-scenarios{
+    height: 60px;
+    width: 50px;
+}
+.custom-header {
+    height: 140px; 
+  }
+
+  .content-space {
+    /* Create a space at the top to push the DataGrid above */
+    height: 60px; /* Adjust the height as needed */
+  }
+  
+  .selected-row {
+    background-color: orange !important;
+  }
+  .alternate-row {
+  background-color: rgba(229, 191, 142, 0.347) !important; /* Define your desired background color here */
+}
