@@ -375,6 +375,17 @@ const CompareScenariosPage = () => {
         </Grid>
 
       </Grid>
+      <img
+        src="https://res.cloudinary.com/dfsytkmik/image/upload/v1689403959/Browser_access_prototype-06_2_w83ofk.jpg"
+        alt="Bottom Logo"
+        style={{
+          position: "fixed",
+          bottom: 0,
+          left: 0,
+          height: "50px",
+          width: "60px",
+        }}
+      />
     </div>
   );
 };
