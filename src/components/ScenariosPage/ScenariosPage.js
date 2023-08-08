@@ -335,7 +335,9 @@ const ScenariosPage = () => {
   // };
 
   const rowDoubleClickHandler = (params) => {
-    navigate("/scenario-details-page", { state: { rowData: params.row } });
+    navigate("/scenario-details-page", {
+      state: { rowData: params.row }
+    });
   };
 
   const handleCompareScenarios = () => {
